@@ -29,5 +29,3 @@ Efficiently manage your data with organized subdirectories for raw data, process
 The scripts in this repository are provided with appropriate licenses, respecting the rights and usage terms for various categories such as automation, biotech, and essay reading. Please refer to the respective license files in the "licenses" directory for more information.
 
 Join us in embracing the synergy of automation and biotechnology. Feel free to explore, adapt, and contribute to the scripts in this repository as we continue to push the boundaries of what's possible in the realms of cybersecurity and biotech innovation.
-
-_*Disclaimer: This repository is fictional and created for illustrative purposes only. Any resemblance to real entities or organizations is purely coincidental.*_
